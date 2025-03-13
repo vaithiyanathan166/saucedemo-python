@@ -1,0 +1,8 @@
+selenium==4.18.1
+pytest
+openpyxl
+webdriver-manager
+pytest-html
+# py -m venv venv
+# pip install -r requirements.txt
+# pytest --html=selenium-report.html
